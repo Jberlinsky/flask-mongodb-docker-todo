@@ -1,0 +1,7 @@
+flask
+flask-restful
+nose
+coverage
+gunicorn
+Flask-PyMongo
+pymongo
